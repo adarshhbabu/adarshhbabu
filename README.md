@@ -77,14 +77,6 @@ I'm a Computer Science undergrad at **NIT Hamirpur**, focused on **smart contrac
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshhbabu&theme=github-compact&hide_border=true&title_color=58A6FF" alt="Activity Graph" />
 </p>
 
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adarshhbabu/adarshhbabu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> Generated automatically by the workflow in `.github/workflows/snake.yml`.
-
 ---
 
 <p align="center">
