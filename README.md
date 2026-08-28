@@ -21,8 +21,8 @@ I'm a Computer Science undergrad at **NIT Hamirpur**, focused on **smart contrac
 ## Currently Building
 
 <p align="center">
-  <a href="https://github.com/adarshhbabu/allyance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshhbabu&repo=allyance&theme=tokyonight&hide_border=true" alt="Allyance repo card" />
+  <a href="https://github.com/adarshhbabu/Fund_Me_Foundry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshhbabu&repo=Fund_Me_Foundry&theme=tokyonight&hide_border=true" alt="Fund_Me_Foundry repo card" />
   </a>
 </p>
 
@@ -56,9 +56,23 @@ I'm a Computer Science undergrad at **NIT Hamirpur**, focused on **smart contrac
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Allyance – Direct Aid Distribution Platform](https://github.com/adarshhbabu/allyance) | Intermediary-free stablecoin donations to verified recipients, with custom role-based access control and real-time on-chain donation tracking | Solidity, Foundry, Sepolia, ethers.js |
+| [Fund Me Foundry – Crowd Sourcing Smart Contract](https://github.com/adarshhbabu/Fund_Me_Foundry) | A crowd-sourcing smart contract built with Foundry, supporting fund collection and withdrawal with Chainlink price feeds | Solidity, Foundry, zkSync |
+| [Foundry FundMe (Patrick)](https://github.com/adarshhbabu/Foundry-FundMe-Patrick) | Smart contract development following Patrick Collins' Foundry course | Solidity, Foundry |
+| [Legal Saathi](https://github.com/adarshhbabu/Legal-Saathi) | Legal assistance platform — work in progress | — |
 
-> More projects coming soon — this table grows as new repos ship.
+> This table only lists repos that are **public** on GitHub. More projects coming soon as new repos ship.
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshhbabu/adarshhbabu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshhbabu/adarshhbabu/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adarshhbabu/adarshhbabu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
