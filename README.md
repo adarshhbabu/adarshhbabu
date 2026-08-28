@@ -20,13 +20,11 @@ I'm a Computer Science undergrad at **NIT Hamirpur**, focused on **smart contrac
 
 ## Currently Building
 
-<p align="center">
-  <a href="https://github.com/adarshhbabu/Fund_Me_Foundry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshhbabu&repo=Fund_Me_Foundry&theme=tokyonight&hide_border=true" alt="Fund_Me_Foundry repo card" />
-  </a>
-</p>
+### 🔨 [Fund Me Foundry](https://github.com/adarshhbabu/Fund_Me_Foundry)
 
-> This card pulls live from the repo — name, description, language, and star count — so it always matches what's actually there. Update the repo's **About/description** field on GitHub and this card updates automatically.
+> **Foundry Fund Me — Crowd Sourcing Smart Contract**
+>
+> ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white) ![zkSync](https://img.shields.io/badge/zkSync-8B8DFC?style=flat-square&logo=zksync&logoColor=white)
 
 ## Recent Activity
 
@@ -88,7 +86,7 @@ I'm a Computer Science undergrad at **NIT Hamirpur**, focused on **smart contrac
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshhbabu&theme=github-compact&hide_border=true&title_color=58A6FF" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/adarshhbabu/adarshhbabu/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 ---
